@@ -1,1 +1,1 @@
-# -programacion-orientada-a-objetos
+# programacion-orientada-a-objetos
